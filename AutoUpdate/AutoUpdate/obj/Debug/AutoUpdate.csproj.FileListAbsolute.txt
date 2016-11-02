@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+\\mac\home\documents\visual studio 2015\Projects\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
