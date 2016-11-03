@@ -37,7 +37,7 @@ namespace AutoUpdate
         {
         	//Show a message when the download has completed
             MessageBox.Show("Your application is now up-to-date!\n\nThe application will now restart!", "Update Complete", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            Application.Exit();
+            Application.Restart();
         }
 
         //Create method to check for an update
